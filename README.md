@@ -16,4 +16,4 @@ If there are any questions about the materials provided, please direct them to t
 1. [Fork the Repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 2. [Make your changes, and commit them to your fork](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#about-commits)
 3. [Make a Pull Request!](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
-4. A Repo Contributer (@nikhunder or @brandonmcfadd) will review your request and merge it with the main branch!
+4. A Repo Contributer ([@nikhunder](https://github.com/nikhunder) or [@brandonmcfadd](https://github.com/brandonmcfadd)) will review your request and merge it with the main branch!

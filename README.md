@@ -10,7 +10,10 @@ There are a lot of reasons that a responsive request would not be included in th
 There are folders throughout this archive to assist in delineation of document contents to aide in gathering of similar data types. Many of the files have been renamed to provide clarity on their contents and therefore may not be the original names of the obtained files. More details of the file can typically be found in the commit details for that specific file upload.
 
 ## Questions
-If there are any questions about the materials provided, please direct them to the repository owner, @nikhunder on Twitter or the original committer of the files into the archive.
+If there are any questions about the materials provided, you have a few options!
+1. [Open a Github Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#)
+2. Contact the original committer of the files into the archive
+3. The repository owner, [@nikhunder, on Twitter](https://twitter.com/nikhunder)
 
 ## How to contribute?
 1. [Fork the Repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)

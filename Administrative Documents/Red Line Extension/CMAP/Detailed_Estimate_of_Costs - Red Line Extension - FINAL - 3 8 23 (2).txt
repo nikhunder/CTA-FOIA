@@ -1,0 +1,51 @@
+				
+				
+				
+Description	 Quantity 	  Subtotal 		
+Guideway: At-grade exclusive right-of-way	 1.54 	" $9,247,040 "		
+Guideway: Retained cut or fill	 0.11 	" $9,244,253 "		
+				
+Guideway: Aerial structure	 3.86 	" $751,377,362 "		
+Track:  Vibration and noise dampening				
+				
+Track:  Direct fixation	" 40,762 "	" $64,258,358 "		
+Track:  Ballasted	" 17,424 "	" $28,820,893 "		
+"Track:  Special (switches, turnouts)"	 13 	" $9,326,455 "		
+				
+"Aerial station, stop, shelter, mall, terminal, platform"	 4 	" $197,534,436 "		
+"Other stations, landings, terminals:  Intermodal, ferry, trolley, etc. "				
+"Elevators, escalators"	 17 	" $15,054,131 "		
+Automobile parking multi-story structure	 650 	" $61,202,947 "		
+				
+Heavy Maintenance Facility	" 120,727 "	" $249,015,243 "		
+Yard and Yard Track	" 2,265,120 "	" $257,044,577 "		
+				
+"Demolition, Clearing, Earthwork"	 1 	" $53,505,208 "		
+"Site Utilities, Utility Relocation"	 1 	" $32,536,706 "		
+"Haz. mat'l, contam'd soil removal/mitigation, ground water treatments"	 1 	" $52,286,109 "		
+"Environmental mitigation, e.g. wetlands, historic/archeologic, parks"	 1 	" $22,016,231 "		
+"Site structures including retaining walls, sound walls"	 1 	" $24,483,687 "		
+"Pedestrian / bike access and accommodation, landscaping"	 1 	" $20,813,851 "		
+"Automobile, bus, van accessways including roads, parking lots"	 1 	" $22,055,242 "		
+Temporary Facilities and other indirect costs during construction	 1 	" $65,687,838 "		
+				
+Train control and signals	 5.51 	" $363,868,831 "		
+				
+Traffic signals and crossing protection	 20 	" $15,740,541 "		
+				
+Traction power supply:  substations 	 6 	" $301,602,939 "		
+Traction power distribution:  catenary and third rail	 5.51 	" $96,568,926 "		
+				
+Communications	 5.51 	" $33,793,948 "		
+Fare collection system and equipment	 1 	" $10,018,641 "		
+Central Control	 1 	" $16,416,958 "		
+				
+Purchase or lease of real estate  	 1 	" $164,156,419 "		
+Relocation of existing households and businesses	 1 	" $10,258,662 "		
+				
+Vehicles	 78 	" $410,823,902 "		
+				
+Preliminary Engineering	 1 	" $84,003,150 "		
+Final Design	 1 	" $196,062,455 "		
+				
+TOTAL COST OF ITEMS:		" $3,648,825,938 "		
